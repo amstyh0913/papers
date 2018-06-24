@@ -1,5 +1,7 @@
 # Summary of Paper
 
+### Zero-shot Sequence Labeling: Transferring Knowledge from Sentences to Tokens
+
 ### A Graph-to-Sequence Model for AMR-to-Text Generation
 
 ### Graph-to-Sequence Learning using Gated Graph Neural Networks
