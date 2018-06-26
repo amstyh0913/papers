@@ -16,8 +16,12 @@
 
 ### Medical Relation Extraction with Manifold Models
 
-### Relation extraction andscoring in DeepQA
+### Relation extraction and scoring in DeepQA
 
 ### Ontology-based Information Extraction forBusiness Intelligence
 
 ### Open information using Wikipedia
+
+### Distance-Free Modeling of Multi-Predicate Interactionsin End-to-End Japanese Predicate-Argument Structure Analysis
+
+### Supervised Open Information Extraction
